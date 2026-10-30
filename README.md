@@ -90,3 +90,7 @@ Data Merging
 CSV Processing
 Business Data Analysis
 Data Visualization
+
+## Interactive Flask Dashboard
+
+This repository also includes the CampusIQ Flask dashboard as a self-contained project in [`campusiq-dashboard/`](./campusiq-dashboard/). See its [README](./campusiq-dashboard/README.md) for setup and run instructions.
